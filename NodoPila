@@ -1,0 +1,15 @@
+package NodoPila;
+
+
+public class NodoPila {
+    public int elemento;
+    public NodoPila siguiente;
+
+   
+ public NodoPila(int elemento) {
+      this.elemento=elemento;
+      siguiente=null;
+      
+    }
+
+}
