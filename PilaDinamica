@@ -1,4 +1,4 @@
-package Logica;
+package PilaDinamica;
 
 import Creador.NodoPila;
 import java.util.ArrayList;
